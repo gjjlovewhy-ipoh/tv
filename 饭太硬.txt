@@ -623,6 +623,20 @@
             "timeout": 10,
             "ua": "bingcha/1.1(mianfeifenxiang)"
         },
+{
+            "name": "冰茶肥羊",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://bc.188766.xyz/?ip=36.152.155.130&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "   ,
+            "host": "hlsztemgsplive.miguvideo.com",
+              "User-Agent": "bingcha/1.1 (mianfeifenxiang) ",
+    "proxy":     "raw.githubusercontent.com"   ,
+    "hosts":     "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+      "hosts":  "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+     "hosts":        "iptv.huuc.edu.cn=huucv6.188766.xyz",
+    "ads":    "static-mozai.4gtv.tv"
+},
         {
             "name": "develop202",
             "type": 0,
